@@ -10,6 +10,51 @@ Multimodal large language models (MLLMs) have made significant strides, yet they
 # Datsets Links
 [Dataset Link](https://huggingface.co/datasets/akemiH/Med-Instruction)
 
+# Data Resource
+
+| Dataset               | Caption Available | Link  | License                                             |
+|-----------------------|-----------|-------|-----------------------------------------------------|
+| Deeplesion                   | Yes       | [Link](#https://huggingface.co/datasets/farrell236/DeepLesion) | -                                                   |
+| PadChest        | Yes       | [Link](#https://bimcv.cipf.es/bimcv-projects/padchest/) | PADCHEST Dataset Research Use Agreement                                           |
+| Eurorad  | Yes       | [Link](#https://www.eurorad.org/) | Creative Commons Attribution 4.0 International License                                   |
+| MIMIC-CXR-JPG          | No       | [Link](#https://physionet.org/content/mimic-cxr-jpg/2.1.0/) | PhysioNet Credentialed Health Data License 1.5.0                                           |
+| LLD              | Yes        | [Link](#https://github.com/LMMMEng/LLD-MMRI-Dataset?tab=readme-ov-file) | LLD-MMRI Agreement  |
+| MAMA-MIA                  | Yes       | [Link](#https://www.synapse.org/Synapse:syn60868042/wiki/628716) | CC BY-NC-SA 4.0                                     |
+| PMC-VQA                   | Yes       | [Link](#https://huggingface.co/datasets/xmcmic/PMC-VQA) | CC BY-SA                                           |
+| PMC-Instruct            | Yes       | - | OpenRAIL                                           |
+| Quilt               | Yes       | [Link](#https://zenodo.org/records/8239942) | -                                     |
+| Radiopaedia                | No       | [Link](#https://radiopaedia.org/?lang=us) | Radiopaedia Agreement                                             |
+| JAMA Clinical Challenge                | No        | [Link](#https://jamanetwork.com/collections/44038/clinical-challenge) | JAMA's Angreement                                     |
+| LLaVA-Med             | Yes       | [Link](#https://github.com/LMMMEng/LLD-MMRI-Dataset) | CC BY NC 4.0                                        |
+
+
+## Disclaimer
+
+The dataset provided (referred to as "This Dataset") is constructed using multiple publicly available datasets and is intended solely for academic and technical research by researchers and developers. Any individual or organization (hereinafter referred to as "User") accessing or using this dataset must comply with the following disclaimer:
+
+### Dataset Source:
+This Dataset is built from several publicly available datasets. The sources and licenses of these datasets are clearly stated in the accompanying documentation. Users are required to adhere to the relevant licenses, terms of use, and restrictions specified by the original dataset providers. For cases published on the EuroRad website prior to July 6, 2015, these do not fall under the Creative Commons Attribution 4.0 International License. Therefore, Users must obtain direct permission from the author who submitted the case for any use. To avoid complications, we recommend not using cases published before this date, unless you can secure explicit permission from each case submitter for every intended use.
+
+
+### Data Accuracy:
+Reasonable efforts have been made to ensure the accuracy, integrity, and completeness of This Dataset. However, the User assumes all risks associated with using the dataset. The providers of This Dataset accept no responsibility for any errors, inaccuracies, or omissions that may arise.
+
+### Limitation of Liability:
+Under no circumstances shall the providers or contributors of This Dataset be liable for any damages or consequences arising from the use or misuse of This Dataset by the User.
+
+### Usage Restrictions:
+Users of This Dataset must comply with all applicable laws, regulations, and ethical standards. The dataset must not be used for illegal purposes, privacy violations, defamation, discrimination, or other unethical activities.
+
+### Intellectual Property:
+The intellectual property rights of the original image data in This Dataset belong to the respective rights holders of the source datasets. Users must not engage in activities that violate these intellectual property rights.
+
+### Ethical Use:
+As a non-profit organization, we promote a collaborative and ethical open-source environment. Should any content within This Dataset infringe upon legitimate rights, please contact us, and we will make every effort to resolve the issue.
+
+By downloading, accessing, or using This Dataset, the User acknowledges that they have read, understood, and agreed to comply with this disclaimer. If the User does not accept any part of this disclaimer, they should refrain from using This Dataset.
+
+
+
 ```
 @article{wang2024semihvision,
   title={SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation},
