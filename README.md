@@ -14,7 +14,7 @@ Multimodal large language models (MLLMs) have made significant strides, yet they
 
 | Dataset               | Caption Available | Link  | License                                             |
 |-----------------------|-----------|-------|-----------------------------------------------------|
-| Deeplesion                   | Yes       | [Link](https://huggingface.co/datasets/farrell236/DeepLesion) | -                                                   |
+| Deeplesion                   | Yes       | [Link](https://huggingface.co/datasets/farrell236/DeepLesion) | CC BY 4.0                                                  |
 | PadChest        | Yes       | [Link](https://bimcv.cipf.es/bimcv-projects/padchest/) | PADCHEST Dataset Research Use Agreement                                           |
 | Eurorad  | Yes       | [Link](https://www.eurorad.org/) | Creative Commons Attribution 4.0 International License                                   |
 | MIMIC-CXR-JPG          | No       | [Link](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) | PhysioNet Credentialed Health Data License 1.5.0                                           |
