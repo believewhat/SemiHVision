@@ -9,3 +9,12 @@ Multimodal large language models (MLLMs) have made significant strides, yet they
 
 # Datsets Links
 [Dataset Link](https://huggingface.co/datasets/akemiH/Med-Instruction)
+
+```
+@article{wang2024semihvision,
+  title={SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation},
+  author={Wang, Junda and Ting, Yujan and Chen, Eric Z and Tran, Hieu and Yu, Hong and Huang, Weijing and Chen, Terrence},
+  journal={arXiv preprint arXiv:2410.14948},
+  year={2024}
+}
+```
