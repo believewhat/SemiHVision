@@ -8,7 +8,7 @@ Multimodal large language models (MLLMs) have made significant strides, yet they
 ![Image text](https://github.com/believewhat/SemiHVision/blob/main/distribution.png)
 
 # Datsets Links
-[Dataset Link](https://huggingface.co/datasets/akemiH/Med-Instruction)
+[Dataset Link](https://huggingface.co/datasets/akemiH/SemiHVision)
 
 # Data Resource
 
